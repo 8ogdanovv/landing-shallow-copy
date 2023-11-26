@@ -15,7 +15,7 @@ Here is shallow copy simpliest implementation:
   <style>
     body {
       margin: 0;
-      overflow: hidden auto;
+      overflow: hidden;
     }
 
     iframe {
@@ -24,7 +24,7 @@ Here is shallow copy simpliest implementation:
       left: 0;
       width: 100%;
       height: 100dvh;
-      overflow: hidden;
+      overflow: hidden auto;
     }
   </style>
 </head>
@@ -34,6 +34,6 @@ Here is shallow copy simpliest implementation:
 </html>
 ```
 
-===
+---
 
-Now you mignt want to see [deeper copy]().
+Now you mignt want to see [deeper copy](https://vadym4che.github.io/landing-deeper-copy/).
